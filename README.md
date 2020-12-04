@@ -1,2 +1,5 @@
-# serialport-nodejs-arduino
-Serialport - Node &amp; Arduino
+# Serial Port - Node &amp; Arduino
+
+A very small project to help debug NodeJs and Arduino communication
+
+We use `serialport` for communication
